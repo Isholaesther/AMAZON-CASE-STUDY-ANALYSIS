@@ -83,7 +83,7 @@ This project focuses on analyzing product-level data from Amazon using Excel to 
 4. Which products have the highest average ratings?  
 5. What is the average actual vs discounted price by category?  
 6. Which products have the highest number of reviews?  
-7. How many products have a discount ≥50%? → ✅ **751 products**  
+7. How many products have a discount ≥50%?
 8. What is the distribution of product ratings?  
 9. What is the potential revenue by category?  
 10. Product count by price bucket  
